@@ -1,10 +1,10 @@
-# team-lannister-microsoft-codefundo-
+# Team-lannister-microsoft-codefundo-
 Our project for microsoft codefundo++
 
-# project idea
+# Project idea
 Idea of our project is to develop an application similar to google maps which takes pollution into consideration and provides the best pollution free path or the green path.
 
-# why the project is useful?
+# Why the project is useful?
 We want to make travelling more comfortable for the people. Often Apps provide multiple path taking similar time between two places but none provide any information on which path has less pollution , they are rather one dimemsional based on time.
 
 # How do we aim to do it?
