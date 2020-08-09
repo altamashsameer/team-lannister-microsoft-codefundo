@@ -1,4 +1,4 @@
-# Team-lannister-microsoft-codefundo-
+# Team-lannister-microsoft-codefundo
 Our project for microsoft codefundo++
 
 # Project idea
